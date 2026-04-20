@@ -241,6 +241,8 @@ int main (int argc, char *argv[]) {
         scanf("%d", &opc2);
 
     } while (opc2 == 1);
+
+    printf("Listo profe");
         
     return 0;
 }
